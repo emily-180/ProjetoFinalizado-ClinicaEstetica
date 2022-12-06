@@ -6,7 +6,7 @@ As plataformas foram Visual Studio 2022 e MYSQL WorkBench. </h3>
 
 <h5>Tela de Login:<h5>
 <br>
-![image](https://user-images.githubusercontent.com/84342416/205918423-ac519968-f926-4d9c-b80c-ccbe0bce1d96.png)
+![image](https://github.com/emily-180/ProjetoFinalizado-ClinicaEstetica/blob/master/imagensReadme/Capturar.PNG)
  <br>
 ![image](https://user-images.githubusercontent.com/84342416/205918968-319a6f18-cfac-4360-a852-5443763dd2f8.png)
   
