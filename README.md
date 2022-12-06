@@ -14,7 +14,22 @@ As plataformas foram Visual Studio 2022 e MYSQL WorkBench. </h3>
 <br>![cadastro](https://user-images.githubusercontent.com/84342416/205923442-71328692-444b-4658-9cc3-d938c14d103c.PNG)<br>
 <h5 align="center">Resultado: <h5>
 <br>![Resultado do Cadastro](https://user-images.githubusercontent.com/84342416/205923951-3756faf9-166a-4ce0-8ab0-8f51d4cfcbef.PNG)<br>
-  
+<h5 align="center">Busca por nome de Cliente: <h5>
+<br>![busca](https://user-images.githubusercontent.com/84342416/205924935-f3ceeed5-15fc-40dd-8873-83305aace9b6.PNG)<br>  
+<h5 align="center">Tela de Alteração (traz as informações do cliente selecionado): <h5>
+<br>![alterar](https://user-images.githubusercontent.com/84342416/205925267-e12d1a35-0b7a-4f17-8fb9-9433a928a587.PNG)<br>  
+<h5 align="center">Resultado: <h5>
+<br>![resultdo alteraçaõ](https://user-images.githubusercontent.com/84342416/205925667-6f314bb9-abfb-4687-b08a-3f7a5d3294f9.PNG)<br>  
+<h5 align="center">Exclusão (seleciona a linha do cliente, e clica no botão remover)<h5>
+<br>![exclusão](https://user-images.githubusercontent.com/84342416/205925912-2fe4ae28-9805-44f2-938c-cfeb5fae2938.PNG)<br>  
+<h5 align="center">Resultado: <h5>
+<br>![resultado excluysão](https://user-images.githubusercontent.com/84342416/205926234-09c438fe-7e16-4025-a1c0-d54554abe9b1.PNG)<br>  
+<h5 align="center">Listar Procediemnto (Clicando no botão mais, é possível adicionar procediemntos): <h5>
+<br>![procediemntos](https://user-images.githubusercontent.com/84342416/205927213-12e6bcaa-6a52-4143-be2c-d44f86413a8a.PNG)<br>  
+ <h5 align="center">Adicionar Procediemnto (Clicando no botão confirmar): <h5>
+<br>![adicionando](https://user-images.githubusercontent.com/84342416/205927444-74bdbc29-be2e-4019-8113-eeb0cf9aea31.PNG)<br>  
+<h5 align="center">Resultado: <h5>
+<br>![resultado ad](https://user-images.githubusercontent.com/84342416/205927806-c5580812-2108-40e1-b637-6d4a262e49e5.PNG)<br>  
 
 
 
