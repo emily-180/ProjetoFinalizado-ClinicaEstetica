@@ -5,7 +5,7 @@ As tecnologias utilizadas foi a linguagem C# e manipulação de dados através d
 As plataformas foram Visual Studio 2022 e MYSQL WorkBench. </h3>
 
 <h5 align="center">Tela de Login:<h5>
-<br>https://github.com/emily-180/ProjetoFinalizado-ClinicaEstetica/issues/1#issue-1492827114<br>
+<br>![inicial](https://user-images.githubusercontent.com/84342416/207162111-5bfc06fd-501f-439b-b5eb-483cd2f429b5.png)<br>
 <h5 align="center">Tela Login com Dados do Usuário:<h5>
 <br>![Capturar](https://user-images.githubusercontent.com/84342416/205924181-a97216ef-b2db-4043-970d-5ea564736178.PNG)<br>
 <h5 align="center">Tela Principal: (É possível cadastrar, buscar clientes, fazer alterações e deletar)<h5>
