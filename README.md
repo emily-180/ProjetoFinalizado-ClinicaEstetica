@@ -5,7 +5,7 @@ As tecnologias utilizadas foi a linguagem C# e manipulação de dados através d
 As plataformas foram Visual Studio 2022 e MYSQL WorkBench. </h3>
 
 <h5 align="center">Tela de Login:<h5>
-<br> <img src="ifotosReadme/paginainicial.png" alt="Inicial">
+<br> <img src="fotosReadme/paginainicial.png" alt="Inicial">
 <h5 align="center">Tela Login com Dados do Usuário:<h5>
 <br>![Capturar](https://user-images.githubusercontent.com/84342416/205924181-a97216ef-b2db-4043-970d-5ea564736178.PNG)<br>
 <h5 align="center">Tela Principal: (É possível cadastrar, buscar clientes, fazer alterações e deletar)<h5>
