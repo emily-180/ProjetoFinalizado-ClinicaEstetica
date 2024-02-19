@@ -1,6 +1,6 @@
 <h1 align="center">❤- Sistema de Agendamento da Clínica de Estética -❤</h1>
 
-<h3> O Sistema é um agendamento de consulta para uma Clínica de Estética. O seu principal objetivo é cadastrar e gerenciar as consultas realizadas pelo usuário. As tecnologias utilizadas foram a linguagem C# e manipulação de dados através do SQL. As plataformas foram Visual Studio 2022 e MYSQL WorkBench. </h3>
+O Sistema é um agendamento de consulta para uma Clínica de Estética. O seu principal objetivo é cadastrar e gerenciar as consultas realizadas pelo usuário. As tecnologias utilizadas foram a linguagem C# e manipulação de dados através do SQL. As plataformas foram Visual Studio 2022 e MYSQL WorkBench. 
 
 <h5 align="center">Tela de Login:</h5>
 <br> <img src="fotosReadme/paginainicial.png" alt="Tela de Login"><br>
